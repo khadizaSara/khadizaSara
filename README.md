@@ -1,7 +1,7 @@
 <h2>
   Welcome
   <img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif"
-       width="40"
+       width="80"
        style="vertical-align: middle;" />
 </h2>
 
