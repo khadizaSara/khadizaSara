@@ -1,4 +1,15 @@
 ## Hi there 👋
+<div align="center">
+
+🌸 Hi, I’m <b>Khadiza</b> — you can call me <b>Sara</b> 💗  
+Final-year <b>CSE student from Bangladesh</b>
+
+Interested in <b>Human–Computer Interaction</b> and <b>Web Development</b>  
+Sharing <b>university & personal projects</b> here ✨
+
+Lover of <b>pink</b>, cute aesthetics, and an <b>artist</b> 🎨🐱
+
+</div>
 
 <!--
 **khadizaSara/khadizaSara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
