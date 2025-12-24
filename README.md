@@ -9,7 +9,7 @@ I’m a **final-year Computer Science and Engineering student from Bangladesh**.
 My primary interests lie in **Human–Computer Interaction (HCI)** and **web development**, with a focus on designing thoughtful, user-centered digital experiences.
 
 This GitHub is where I share my **university coursework** and **personal projects**.  
-Outside of coding, I love **pink aesthetics**, enjoy **creative design**, and I’m also an **artist**.
+Outside of coding, I love **pink aesthetics**, enjoy **creative things**, and I’m also an **artist**.
 
 <!--
 **khadizaSara/khadizaSara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
