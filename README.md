@@ -1,15 +1,11 @@
 ## Hi there 👋
-<div align="center">
+Hi, I’m **Khadiza** , you can call me **Sara** too.  
+I’m a **final-year Computer Science and Engineering student from Bangladesh**.
 
-🌸 Hi, I’m <b>Khadiza</b> — you can call me <b>Sara</b> 💗  
-Final-year <b>CSE student from Bangladesh</b>
+My primary interests lie in **Human–Computer Interaction (HCI)** and **web development**, with a focus on designing thoughtful, user-centered digital experiences.
 
-Interested in <b>Human–Computer Interaction</b> and <b>Web Development</b>  
-Sharing <b>university & personal projects</b> here ✨
-
-Lover of <b>pink</b>, cute aesthetics, and an <b>artist</b> 🎨🐱
-
-</div>
+This GitHub is where I share my **university coursework** and **personal projects**.  
+Outside of coding, I love **pink aesthetics**, enjoy **creative design**, and I’m also an **artist**.
 
 <!--
 **khadizaSara/khadizaSara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
