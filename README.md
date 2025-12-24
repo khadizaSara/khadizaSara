@@ -1,6 +1,8 @@
 <h2>
   Welcome
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif"
+       width="40"
+       style="vertical-align: middle;" />
 </h2>
 
 Hi, I’m **Khadiza** , you can call me **Sara** too.  
