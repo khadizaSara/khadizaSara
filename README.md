@@ -5,25 +5,18 @@
        style="vertical-align: middle;" />
 </h2>
 
-Hi, I’m **Khadiza** , you can call me **Sara** too.  
-I’m a **final-year Computer Science and Engineering student from Bangladesh**.
+Hi! I’m **Khadiza** — but you can call me **Sara** too if you’d like; that’s my nickname.
 
-My primary interests lie in **Human–Computer Interaction (HCI)** and **web development**, with a focus on designing thoughtful, user-centered digital experiences.
+I’m a **final-year Computer Science and Engineering student from Bangladesh**, currently studying at **BRAC University**.
 
-This GitHub is where I share my **university coursework** and **personal projects**.  
-Outside of coding, I love **pink aesthetics**, enjoy **creative things**, and I’m also an **artist**.
+My main interest lies in **Human–Computer Interaction (HCI)**. I’m really passionate about this field and enjoy exploring how it can intersect with areas like **AI and Machine Learning** to build meaningful and thoughtful technology.
 
-<!--
-**khadizaSara/khadizaSara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Through my work, I hope to contribute to addressing **marginalized communities and gender-related issues**, and to help create digital experiences that make the world a little more inclusive for everyone.
 
-Here are some ideas to get you started:
+I’m also interested in **web development**, especially when it supports user-centered and accessible design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this GitHub to share my **university coursework** and **personal projects** as I learn and grow.
+
+Outside of tech, I enjoy arts and crafts, and I love creative spaces.
+
+Thanks for stopping by — **welcome here!** 🌸
