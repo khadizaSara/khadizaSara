@@ -17,7 +17,7 @@ I’m also interested in **web development**, especially when it supports user-c
 
 I use this GitHub to share my **university coursework** and **personal projects** as I learn and grow.
 
-Outside of tech, I enjoy reading, making arts and crafts, and I love creative spaces.
+Outside of tech, I enjoy reading, arts and crafts, and I love creative spaces.
 
 <h2>Skills & Technologies</h2>
 
