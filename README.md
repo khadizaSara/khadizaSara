@@ -17,6 +17,32 @@ I’m also interested in **web development**, especially when it supports user-c
 
 I use this GitHub to share my **university coursework** and **personal projects** as I learn and grow.
 
-Outside of tech, I enjoy arts and crafts, and I love creative spaces.
+Outside of tech, I enjoy reading, making arts and crafts, and I love creative spaces.
+
+<h2>Skills & Technologies</h2>
+
+<ul>
+  <li><strong>Programming:</strong> Python, C (familiar with Assembly Language)</li>
+  <li><strong>Web Development:</strong> Laravel (basic proficiency)</li>
+  <li><strong>Databases:</strong> MySQL</li>
+  <li><strong>Data Analysis & Visualization:</strong> Pandas, Matplotlib</li>
+  <li><strong>Graphics & Systems Programming:</strong> OpenGL</li>
+  <li><strong>API Testing:</strong> Postman API</li>
+</ul>
+
+<h2> Currently Learning</h2>
+
+<ul>
+  <li>Advanced HCI frameworks and methods</li>
+  <li>Prototyping with Figma</li>
+</ul>
+
+<h2> Interests & Hobbies</h2>
+
+<ul>
+  <li>Exploring HCI and user experience research</li>
+  <li>Arts and crafts</li>
+  <li>Reading and creative spaces</li>
+</ul>
 
 Thanks for stopping by — **welcome here!** 🌸
